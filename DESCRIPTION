@@ -1,6 +1,6 @@
 Package: Snowfall
 Title: Demonstration package
-Version: 0.0.0.3
+Version: 0.0.0.4
 Authors@R: person("Dick", "Danger",
     email = "first.last@example.com",
     role = c("aut", "cre"))
